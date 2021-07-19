@@ -1,3 +1,8 @@
 # git-test-2
 
-Processur d'installation du projet
+Processus d'installation du projet
+
+-> `Git clone https://github.com/rmurail/git-test-2.git`
+
+-> `Git pull` pour mettre le fichier à jour 
+
